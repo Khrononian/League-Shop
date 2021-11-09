@@ -8,3 +8,25 @@ h1 {
     text-align: center;
     font-size: 2.5rem;
 }
+
+
+
+.shop-images {
+    width: 20px;
+    color: #cebe94;
+}
+
+.mythics {
+    border: 1px solid red;
+    width: 75px;
+    padding: .5rem;
+}
+
+.imgs {
+    border: 3px solid #feb131;
+    width: 55px;
+}
+
+.item-price {
+    color: hsl(39deg 55% 59%);
+}
